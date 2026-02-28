@@ -1,0 +1,3 @@
+config BOARD_KEYCHRON_B6
+    bool "Keychron B6"
+    depends on SOC_NRF52840_QIAA

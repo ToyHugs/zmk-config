@@ -1,5 +1,0 @@
-if BOARD_KEYCHRON_B6
-
-# Board-specific Kconfig options
-
-endif # BOARD_KEYCHRON_B6

@@ -1,7 +1,6 @@
-// Keychron B6 – nRF52840 main devicetree
+// Keychron B6 – nRF52840
 /dts-v1/;
 #include <nordic/nrf52840_qiaa.dtsi>
-
 #include "keychron_b6-pinctrl.dtsi"
 
 / {
