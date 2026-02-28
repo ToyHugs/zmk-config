@@ -19,5 +19,5 @@
 #
 ---
 include:
-	- board: keychron_b6_pro
-		artifact-name: keychron_b6_pro_default
+  - board: keychron_b6_pro
+    artifact-name: keychron_b6_pro_default
