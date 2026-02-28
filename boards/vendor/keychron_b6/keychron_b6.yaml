@@ -1,0 +1,12 @@
+identifier: keychron_b6
+name: Keychron B6
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - adc
+  - usb_device
+  - ble
+  - pwm

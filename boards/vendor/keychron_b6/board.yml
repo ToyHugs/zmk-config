@@ -1,0 +1,5 @@
+board:
+  name: keychron_b6
+  vendor: keychron
+  socs:
+    - name: nrf52840

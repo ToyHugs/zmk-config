@@ -1,0 +1,11 @@
+file_format: "1"
+id: keychron_b6
+name: Keychron B6
+type: board
+arch: arm
+url: https://www.keychron.com/products/keychron-b6-wireless-mechanical-keyboard
+features:
+  - keys
+outputs:
+  - usb
+  - ble

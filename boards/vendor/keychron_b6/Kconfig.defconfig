@@ -1,0 +1,19 @@
+if BOARD_KEYCHRON_B6
+
+config ZMK_KEYBOARD_NAME
+    default "Keychron B6"
+
+if USB
+
+config USB_NRFX
+    default y
+
+config USB_DEVICE_STACK
+    default y
+
+endif # USB
+
+config BT_CTLR
+    default BT
+
+endif # BOARD_KEYCHRON_B6

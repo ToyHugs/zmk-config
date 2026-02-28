@@ -1,0 +1,9 @@
+file_format: "1"
+id: keychron_b6_us
+name: Keychron B6 (US)
+type: shield
+url: https://www.keychron.com/products/keychron-b6-wireless-mechanical-keyboard
+features:
+  - keys
+requires:
+  - keychron_b6
